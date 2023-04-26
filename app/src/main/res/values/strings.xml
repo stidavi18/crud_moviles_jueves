@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD DE USUARIOS</string>
+    <string name="btn_btnCreate">Crear Usuario</string>
+    <string name="btn_btnFetch">Buscar Usuario</string>
+    <string name="btn_btnEdit">Editar Usuario</string>
+    <string name="btn_btnDelete">Eliminar Usuario</string>
+
+
+</resources>
